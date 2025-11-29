@@ -1,4 +1,4 @@
-<center># 🔑 KeyDock </center>
+<h2 style="text-align:center;">🔑 KeyDock </h2>
 ## Local Highly Secure Password Manager
 
 ## 🌟 Overview

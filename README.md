@@ -1,6 +1,5 @@
-<h2 align="center">🔑 KeyDock </h2>
-
-## Local Highly Secure Password Manager
+<h1 align="center">🔑 KeyDock </h1>
+<h2 align="center">Local Highly Secure Password Manager </h2>
 
 ## 🌟 Overview
 KeyDock is a highly secure, **local-only** password manager designed to give the user absolute control and protection over their stored credentials. Unlike cloud-based solutions, KeyDock keeps all encrypted data and keys on your local machine, ensuring that a breach only affects your device.

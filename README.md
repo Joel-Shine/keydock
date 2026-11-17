@@ -1,7 +1,7 @@
 <h1 align="center">🔑 KeyDock </h1>
 <h2 align="center">Obscurely secure Password manager?!</h2>
 
-## The core principle of KeyDock is simple: **Your Master Password is the single, non-recoverable key to all your data.**
+<h4 align="center"> Your Master Password is the single, non-recoverable key to all your data. </h4>
 
 ## 🚀 Setup Keydock
 

@@ -1,5 +1,5 @@
 <h1 align="center">🔑 KeyDock </h1>
-<h2 align="center">Obscurely secure Password manager?!</h2>
+<h2 align="center">Obscurely secure local password manager?!</h2>
 
 <h4 align="center"> Your Master Password is the single, non-recoverable key to all your data. </h4>
 
